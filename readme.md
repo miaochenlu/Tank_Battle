@@ -19,8 +19,18 @@ lhh：统筹各个模块的设计、参与各个模块的实现
 
 详细内容可以看report
 
+
+
 ###效果展示
 
-<img src="img/IMG_2986.jpg" alt="IMG_2986" style="zoom:20%;" />
+<table>
+  <tr>
+    <td><img src="img/IMG_2986.jpg" alt="IMG_2986" style="zoom:10%;" /></td>
+    <td><img src="img/IMG_70BD7742F918-1.jpg" alt="IMG_70BD7742F918-1" style="zoom:20%;" /></td>
+  </tr>
+</table>
 
-<img src="img/IMG_70BD7742F918-1.jpg" alt="IMG_70BD7742F918-1" style="zoom:30%;" />
+
+
+
+
